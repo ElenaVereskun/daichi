@@ -1,2 +1,3 @@
 //= ../components/modal.js
-console.log('Hello');
+//= ../components/card.js
+console.log("Hello");
